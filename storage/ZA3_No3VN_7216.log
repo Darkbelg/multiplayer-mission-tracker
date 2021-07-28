@@ -1,0 +1,929 @@
+﻿18:38:10 BattlEye Server: Initialized (v1.218)
+18:38:11 Game Port: 2320, Steam Query Port: 2321
+18:38:11 Host identity created.
+18:38:11 BattlEye Server: Config entry: RConPassword ZGA3540ttw
+18:38:11 BattlEye Server: Config entry: RConPort 2319
+18:38:11 BattlEye Server: Config entry: MaxPing 250
+18:38:11 BattlEye Server: Ping detection currently not working, MaxPing command disabled
+18:38:28 Hund uses modified data file
+18:38:29 BattlEye Server: Player #0 Hund (131.164.146.33:2304) connected
+18:38:29 Player Hund connecting.
+18:38:29 BattlEye Server: Connected to BE Master
+18:38:30 BattlEye Server: Player #0 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+18:38:31 Player Hund connected (id=76561197961321906).
+18:38:31 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #0 Hund
+18:38:50 Darkbelg uses modified data file
+18:38:50 BattlEye Server: Player #1 Darkbelg (109.128.10.107:2304) connected
+18:38:50 Player Darkbelg connecting.
+18:38:52 BattlEye Server: Player #1 Darkbelg - BE GUID: e32c89c63c46dfba04d6fe6bca37fa53
+18:38:52 Player Darkbelg connected (id=76561198016469048).
+18:39:01 BattlEye Server: Verified GUID (e32c89c63c46dfba04d6fe6bca37fa53) of player #1 Darkbelg
+18:39:09 Redpath uses modified data file
+18:39:10 BattlEye Server: Player #2 Redpath (82.38.215.21:2304) connected
+18:39:10 Player Redpath connecting.
+18:39:11 BattlEye Server: Player #2 Redpath - BE GUID: 28238ea3c383a21d54932ec086f2eee5
+18:39:13 Player Redpath connected (id=76561197985088831).
+18:39:23 BattlEye Server: Verified GUID (28238ea3c383a21d54932ec086f2eee5) of player #2 Redpath
+18:39:38 Ivan J uses modified data file
+18:39:39 BattlEye Server: Player #3 Ivan J (176.222.45.135:2304) connected
+18:39:39 Player Ivan J connecting.
+18:39:41 BattlEye Server: Player #3 Ivan J - BE GUID: c73a081d468bd1d69b8529a62738d5f6
+18:39:41 Player Ivan J connected (id=76561198038704294).
+18:39:51 BattlEye Server: Verified GUID (c73a081d468bd1d69b8529a62738d5f6) of player #3 Ivan J
+18:40:45 Kovamies uses modified data file
+18:40:46 BattlEye Server: Player #4 Kovamies (83.245.155.228:2304) connected
+18:40:46 Player Kovamies connecting.
+18:40:47 Voted admin logged in, player: Hund, playerUID: 76561197961321906, IP: 192.168.1.11:2304.
+18:40:56 BattlEye Server: Player #4 Kovamies - BE GUID: f58c585075687633abe0b16e52767d86
+18:40:56 Player Kovamies connected (id=76561197966830296).
+18:41:05 BattlEye Server: Verified GUID (f58c585075687633abe0b16e52767d86) of player #4 Kovamies
+18:41:26 JorntheMad uses modified data file
+18:41:27 BattlEye Server: Player #5 JorntheMad (158.174.38.14:2304) connected
+18:41:27 Player JorntheMad connecting.
+18:41:28 BattlEye Server: Player #5 JorntheMad - BE GUID: f6f2ffd1939e7503b529653a4cbd4824
+18:41:29 Player JorntheMad connected (id=76561197977679514).
+18:41:39 BattlEye Server: Verified GUID (f6f2ffd1939e7503b529653a4cbd4824) of player #5 JorntheMad
+18:41:39 Files C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ZClient\addons\babe_core.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+18:41:39 Player JorntheMad disconnected.
+18:41:39 BattlEye Server: Player #5 JorntheMad disconnected
+18:42:14 Mission SOG co 32 defend the FOB v02.Cam_Lao_Nam read from bank.
+18:42:23 mathers uses modified data file
+18:42:24 Beyond your Ken uses modified data file
+18:42:24 BattlEye Server: Player #5 mathers (94.134.176.229:13428) connected
+18:42:24 Player mathers connecting.
+18:42:25 BattlEye Server: Player #6 Beyond your Ken (174.114.216.15:2304) connected
+18:42:25 Player Beyond your Ken connecting.
+18:42:25 BattlEye Server: Player #5 mathers - BE GUID: c4155cce0d8803814c73f71d0c6c2d77
+18:42:26 Player mathers connected (id=76561198059250585).
+18:42:26 BattlEye Server: Verified GUID (c4155cce0d8803814c73f71d0c6c2d77) of player #5 mathers
+18:42:26 BattlEye Server: Player #6 Beyond your Ken - BE GUID: 32b89839aac7ab53c7a55f9a56da5cfe
+18:42:27 Player Beyond your Ken connected (id=76561198007056683).
+18:42:27 BattlEye Server: Verified GUID (32b89839aac7ab53c7a55f9a56da5cfe) of player #6 Beyond your Ken
+18:42:36 Player mathers disconnected.
+18:42:36 BattlEye Server: Player #5 mathers disconnected
+18:43:54 mathers uses modified data file
+18:43:55 BattlEye Server: Player #7 mathers (94.134.176.229:13455) connected
+18:43:55 Player mathers connecting.
+18:43:56 BattlEye Server: Player #7 mathers - BE GUID: c4155cce0d8803814c73f71d0c6c2d77
+18:43:56 Player mathers connected (id=76561198059250585).
+18:43:56 BattlEye Server: Verified GUID (c4155cce0d8803814c73f71d0c6c2d77) of player #7 mathers
+18:44:12 JorntheMad uses modified data file
+18:44:13 BattlEye Server: Player #8 JorntheMad (158.174.38.14:2304) connected
+18:44:13 Player JorntheMad connecting.
+18:44:14 BattlEye Server: Player #8 JorntheMad - BE GUID: f6f2ffd1939e7503b529653a4cbd4824
+18:44:15 Player JorntheMad connected (id=76561197977679514).
+18:44:15 BattlEye Server: Verified GUID (f6f2ffd1939e7503b529653a4cbd4824) of player #8 JorntheMad
+18:44:28 Steven uses modified data file
+18:44:29 BattlEye Server: Player #9 Steven (141.135.125.203:2304) connected
+18:44:29 Player Steven connecting.
+18:44:31 BattlEye Server: Player #9 Steven - BE GUID: 9ea718cc98cfb5189889642a899aacac
+18:44:31 Player Steven connected (id=76561198008481279).
+18:44:31 BattlEye Server: Verified GUID (9ea718cc98cfb5189889642a899aacac) of player #9 Steven
+18:44:47 Warhammer uses modified data file
+18:44:48 BattlEye Server: Player #10 Warhammer (107.214.49.198:2304) connected
+18:44:48 Player Warhammer connecting.
+18:44:52 BattlEye Server: Player #10 Warhammer - BE GUID: 06e7588e111cb4ba018da91d4b5a692b
+18:44:53 Player Warhammer connected (id=76561197994073794).
+18:44:53 BattlEye Server: Verified GUID (06e7588e111cb4ba018da91d4b5a692b) of player #10 Warhammer
+18:44:54 Files C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ZClient\addons\babe_core.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+18:44:54 Player Warhammer disconnected.
+18:44:54 BattlEye Server: Player #10 Warhammer disconnected
+18:46:51 Warhammer uses modified data file
+18:46:52 BattlEye Server: Player #10 Warhammer (107.214.49.198:2304) connected
+18:46:52 Player Warhammer connecting.
+18:46:53 Admin logged in, player: mathers, playerUID: 76561198059250585, IP: 192.168.178.26:2304.
+18:46:55 BattlEye Server: Player #10 Warhammer - BE GUID: 06e7588e111cb4ba018da91d4b5a692b
+18:46:56 Player Warhammer connected (id=76561197994073794).
+18:46:56 BattlEye Server: Verified GUID (06e7588e111cb4ba018da91d4b5a692b) of player #10 Warhammer
+18:46:57 Files C:\Program Files (x86)\Steam\steamapps\common\Arma 3\@ZClient\addons\babe_core.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+18:46:57 Player Warhammer disconnected.
+18:46:57 BattlEye Server: Player #10 Warhammer disconnected
+18:47:15 T [DK] uses modified data file
+18:47:17 BattlEye Server: Player #10 T [DK] (188.182.215.138:2322) connected
+18:47:17 Player T [DK] connecting.
+18:47:18 BattlEye Server: Player #10 T [DK] - BE GUID: c53ecb534583f83df2f1a53171be939c
+18:47:18 Player T [DK] connected (id=76561197992794919).
+18:47:18 BattlEye Server: Verified GUID (c53ecb534583f83df2f1a53171be939c) of player #10 T [DK]
+18:47:21 Player Hund disconnected.
+18:47:21 BattlEye Server: Player #0 Hund disconnected
+18:48:14 Roles assigned.
+18:48:14 Reading mission ...
+18:48:52 Mission read.
+18:50:04 Game started.
+18:54:07 BattlEye Server: (Direct) T [DK]: yes
+18:55:40 Warhammer uses modified data file
+18:55:41 BattlEye Server: Player #11 Warhammer (107.214.49.198:2304) connected
+18:55:41 Player Warhammer connecting.
+18:55:44 BattlEye Server: Player #11 Warhammer - BE GUID: 06e7588e111cb4ba018da91d4b5a692b
+18:55:45 Player Warhammer connected (id=76561197994073794).
+18:55:45 BattlEye Server: Verified GUID (06e7588e111cb4ba018da91d4b5a692b) of player #11 Warhammer
+19:04:39 BattlEye Server: RCon admin #0 (86.178.154.119:62756) logged in
+19:04:58 Wombat uses modified data file
+19:04:59 BattlEye Server: Player #12 Wombat (86.178.154.119:2304) connected
+19:04:59 Player Wombat connecting.
+19:05:01 BattlEye Server: Player #12 Wombat - BE GUID: 782937531c57e001a1e838a81c8b705c
+19:05:01 Player Wombat connected (id=76561197991081257).
+19:05:01 BattlEye Server: Verified GUID (782937531c57e001a1e838a81c8b705c) of player #12 Wombat
+19:10:41 BattlEye Server: (Direct) T [DK]: CAN YOU HERA ME
+19:19:07 Player JorntheMad disconnected.
+19:19:07 BattlEye Server: Player #8 JorntheMad disconnected
+19:20:53 Game finished.
+class Session
+{
+	mission="SOG co 32 defend the FOB v02";
+	island="Cam_Lao_Nam";
+	gameType="Coop";
+	duration=1848.7271;
+	class Player1
+	{
+		name="Kovamies";
+		killsInfantry=50;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=50;
+		killed=0;
+	};
+	class Player2
+	{
+		name="mathers";
+		killsInfantry=34;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=34;
+		killed=1;
+	};
+	class Player3
+	{
+		name="Steven";
+		killsInfantry=30;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=30;
+		killed=0;
+	};
+	class Player4
+	{
+		name="Ivan J";
+		killsInfantry=25;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=25;
+		killed=0;
+	};
+	class Player5
+	{
+		name="Beyond your Ken";
+		killsInfantry=22;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=22;
+		killed=1;
+	};
+	class Player6
+	{
+		name="JorntheMad";
+		killsInfantry=17;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=17;
+		killed=1;
+	};
+	class Player7
+	{
+		name="Wombat";
+		killsInfantry=11;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=11;
+		killed=0;
+	};
+	class Player8
+	{
+		name="T [DK]";
+		killsInfantry=11;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=11;
+		killed=1;
+	};
+	class Player9
+	{
+		name="Warhammer";
+		killsInfantry=8;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=8;
+		killed=0;
+	};
+	class Player10
+	{
+		name="Darkbelg";
+		killsInfantry=8;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=8;
+		killed=1;
+	};
+	class Player11
+	{
+		name="Redpath";
+		killsInfantry=2;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=2;
+		killed=0;
+	};
+};
+19:22:29 BattlEye Server: RCon admin #1 (82.41.7.129:64865) logged in
+19:22:44 Waiting for next game.
+19:23:05 Mission SOG co 37 Tula v01.Cam_Lao_Nam read from bank.
+19:24:28 Mission SOG co 36 Dragon Wagon v02.Cam_Lao_Nam read from bank.
+19:25:00 BattlEye Server: (Group) Kovamies: piss break
+19:26:32 Nitro uses modified data file
+19:26:35 BattlEye Server: Player #13 Nitro (94.134.179.158:6382) connected
+19:26:35 Player Nitro connecting.
+19:26:37 BattlEye Server: Player #13 Nitro - BE GUID: 58f1f578fe46f8cddf90dc3ea92c4f2f
+19:26:37 Player Nitro connected (id=76561197970061638).
+19:26:37 BattlEye Server: Verified GUID (58f1f578fe46f8cddf90dc3ea92c4f2f) of player #13 Nitro
+19:26:56 Player Nitro disconnected.
+19:26:56 BattlEye Server: Player #13 Nitro disconnected
+19:29:19 Roles assigned.
+19:29:19 Reading mission ...
+19:29:29 Mission read.
+19:30:15 Hund uses modified data file
+19:30:15 BattlEye Server: Player #13 Hund (131.164.146.33:2304) connected
+19:30:15 Player Hund connecting.
+19:30:16 BattlEye Server: Player #13 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:30:17 Player Hund connected (id=76561197961321906).
+19:30:17 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #13 Hund
+19:31:31 Player Hund disconnected.
+19:31:31 BattlEye Server: Player #13 Hund disconnected
+19:31:45 Terox uses modified data file
+19:31:46 BattlEye Server: Player #13 Terox (82.41.7.129:2304) connected
+19:31:46 Player Terox connecting.
+19:31:47 BattlEye Server: Player #13 Terox - BE GUID: 8cb468e7bb3d45ddcbadec6b3220c406
+19:31:48 Player Terox connected (id=76561198050565601).
+19:31:48 BattlEye Server: Verified GUID (8cb468e7bb3d45ddcbadec6b3220c406) of player #13 Terox
+19:32:48 BattlEye Server: (Group) Terox: its hotter than a snakes ass
+19:33:10 Hund uses modified data file
+19:33:11 BattlEye Server: Player #14 Hund (131.164.146.33:2304) connected
+19:33:11 Player Hund connecting.
+19:33:12 BattlEye Server: Player #14 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:33:15 Nicko uses modified data file
+19:33:16 BattlEye Server: Player #15 Nicko (99.51.13.22:2304) connected
+19:33:16 Player Nicko connecting.
+19:33:18 BattlEye Server: Player #15 Nicko - BE GUID: b82f7952abcf6498869f06ea4f9412be
+19:33:18 Player Nicko connected (id=76561198195313128).
+19:33:18 BattlEye Server: Verified GUID (b82f7952abcf6498869f06ea4f9412be) of player #15 Nicko
+19:33:25 Player Hund connected (id=76561197961321906).
+19:33:25 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #14 Hund
+19:33:29 Player Nicko disconnected.
+19:33:29 BattlEye Server: Player #15 Nicko disconnected
+19:33:49 DaenialTA uses modified data file
+19:33:50 BattlEye Server: Player #15 DaenialTA (81.164.112.226:2304) connected
+19:33:50 Player DaenialTA connecting.
+19:33:51 BattlEye Server: Player #15 DaenialTA - BE GUID: e4ecf27f637079a9a974de0573a62cb3
+19:33:52 Player DaenialTA connected (id=76561198047920201).
+19:33:52 BattlEye Server: Verified GUID (e4ecf27f637079a9a974de0573a62cb3) of player #15 DaenialTA
+19:34:29 Player Hund disconnected.
+19:34:29 BattlEye Server: Player #14 Hund disconnected
+19:37:35 Hund uses modified data file
+19:37:36 BattlEye Server: Player #16 Hund (131.164.146.33:2304) connected
+19:37:36 Player Hund connecting.
+19:37:37 Game started.
+19:37:37 BattlEye Server: Player #16 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:37:42 Player Hund connected (id=76561197961321906).
+19:37:42 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #16 Hund
+19:38:51 Player Hund disconnected.
+19:38:51 BattlEye Server: Player #16 Hund disconnected
+19:41:02 Hund uses modified data file
+19:41:03 BattlEye Server: Player #16 Hund (131.164.146.33:2304) connected
+19:41:03 Player Hund connecting.
+19:41:04 BattlEye Server: Player #16 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:41:05 Player Hund connected (id=76561197961321906).
+19:41:05 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #16 Hund
+19:42:02 Zaphod uses modified data file
+19:42:03 BattlEye Server: Player #17 Zaphod (91.125.73.141:2304) connected
+19:42:03 Player Zaphod connecting.
+19:42:05 BattlEye Server: Player #17 Zaphod - BE GUID: 8803fee16cc222df7b903162625aae25
+19:42:05 Player Zaphod connected (id=76561197966383161).
+19:42:05 BattlEye Server: Verified GUID (8803fee16cc222df7b903162625aae25) of player #17 Zaphod
+19:42:15 Player Hund disconnected.
+19:42:15 BattlEye Server: Player #16 Hund disconnected
+19:44:47 Madda uses modified data file
+19:44:48 BattlEye Server: Player #18 Madda (47.197.24.158:2304) connected
+19:44:48 Player Madda connecting.
+19:44:50 BattlEye Server: Player #18 Madda - BE GUID: c4a46702020813a2059cc4c5fbb4595b
+19:44:50 Player Madda connected (id=76561198798555885).
+19:44:50 Player Madda disconnected.
+19:44:50 BattlEye Server: Player #18 Madda disconnected
+19:45:14 Hund uses modified data file
+19:45:14 BattlEye Server: Player #18 Hund (131.164.146.33:2304) connected
+19:45:14 Player Hund connecting.
+19:45:16 BattlEye Server: Player #18 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:45:16 Player Hund connected (id=76561197961321906).
+19:45:17 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #18 Hund
+19:46:16 BattlEye Server: (Direct) Zaphod: whats the password for the sog channel
+19:46:29 Player Hund disconnected.
+19:46:29 BattlEye Server: Player #18 Hund disconnected
+19:46:33 BattlEye Server: (Global) mathers: Zaphod, if your ACRE is working correctly it will automatically move you
+19:46:43 BattlEye Server: (Direct) Zaphod: :(
+19:46:48 Ash uses modified data file
+19:46:49 BattlEye Server: Player #18 Ash (86.14.73.195:2304) connected
+19:46:49 Player Ash connecting.
+19:46:50 BattlEye Server: Player #18 Ash - BE GUID: 44cd0a60de917c670ebe000e153339d6
+19:46:50 Player Ash connected (id=76561198022747158).
+19:46:50 BattlEye Server: Verified GUID (44cd0a60de917c670ebe000e153339d6) of player #18 Ash
+19:46:58 BattlEye Server: (Group) Redpath: Zaphod, you probably need to reload it in options
+19:47:00 BattlEye Server: (Global) mathers: i moved you in, see if that works for you
+19:47:05 BattlEye Server: (Global) mathers: if not, then reload the addon on ts
+19:47:36 BattlEye Server: (Group) Redpath: I had to reload it at the start of this evening's entertainment
+19:53:24 Hund uses modified data file
+19:53:25 BattlEye Server: Player #19 Hund (131.164.146.33:2304) connected
+19:53:25 Player Hund connecting.
+19:53:26 BattlEye Server: Player #19 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+19:53:27 Player Hund connected (id=76561197961321906).
+19:53:27 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #19 Hund
+19:54:39 Player Hund disconnected.
+19:54:39 BattlEye Server: Player #19 Hund disconnected
+20:02:31 BattlEye Server: (Group) Redpath: Wombat - I'm assuming you're up - can't see you now
+20:15:53 Alexa uses modified data file
+20:15:54 BattlEye Server: Player #19 Alexa (86.14.49.7:2304) connected
+20:15:54 Player Alexa connecting.
+20:15:56 BattlEye Server: Player #19 Alexa - BE GUID: bf76513dcfe51dfc3dfe6bb24a413e71
+20:15:56 Player Alexa connected (id=76561198001884149).
+20:15:56 Player Alexa disconnected.
+20:15:56 BattlEye Server: Player #19 Alexa disconnected
+20:22:55 Player Warhammer disconnected.
+20:22:55 BattlEye Server: Player #11 Warhammer disconnected
+20:27:00 Hund uses modified data file
+20:27:00 BattlEye Server: Player #19 Hund (131.164.146.33:2304) connected
+20:27:00 Player Hund connecting.
+20:27:02 BattlEye Server: Player #19 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+20:27:03 Player Hund connected (id=76561197961321906).
+20:27:03 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #19 Hund
+20:27:12 Tackleberry uses modified data file
+20:27:13 BattlEye Server: Player #20 Tackleberry (82.16.40.169:2304) connected
+20:27:13 Player Tackleberry connecting.
+20:27:14 BattlEye Server: Player #20 Tackleberry - BE GUID: f8e4fdb5b710a884f8a79264ad01b121
+20:27:15 Player Tackleberry connected (id=76561198012638105).
+20:27:15 BattlEye Server: Verified GUID (f8e4fdb5b710a884f8a79264ad01b121) of player #20 Tackleberry
+20:28:32 Player Hund disconnected.
+20:28:32 BattlEye Server: Player #19 Hund disconnected
+20:31:34 Hund uses modified data file
+20:31:34 BattlEye Server: Player #21 Hund (131.164.146.33:2304) connected
+20:31:34 Player Hund connecting.
+20:31:35 BattlEye Server: Player #21 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+20:31:37 Player Hund connected (id=76561197961321906).
+20:31:37 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #21 Hund
+20:32:49 Player Hund disconnected.
+20:32:49 BattlEye Server: Player #21 Hund disconnected
+20:34:39 Shteven uses modified data file
+20:34:40 BattlEye Server: Player #21 Shteven (104.7.12.105:2304) connected
+20:34:40 Player Shteven connecting.
+20:34:42 BattlEye Server: Player #21 Shteven - BE GUID: 598e9f0aa69f802870c5108da465e724
+20:34:42 Player Shteven connected (id=76561198031788138).
+20:34:43 BattlEye Server: Verified GUID (598e9f0aa69f802870c5108da465e724) of player #21 Shteven
+20:34:45 Files D:\Program Files\Steam\steamapps\common\Arma 3\@ZIslands\addons\archipelago.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+20:34:45 Player Shteven disconnected.
+20:34:45 BattlEye Server: Player #21 Shteven disconnected
+20:37:03 Hund uses modified data file
+20:37:03 BattlEye Server: Player #21 Hund (131.164.146.33:2304) connected
+20:37:03 Player Hund connecting.
+20:37:05 BattlEye Server: Player #21 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+20:37:06 Player Hund connected (id=76561197961321906).
+20:37:06 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #21 Hund
+20:37:52 Player Hund disconnected.
+20:37:52 BattlEye Server: Player #21 Hund disconnected
+20:39:53 Shteven uses modified data file
+20:39:54 BattlEye Server: Player #21 Shteven (104.7.12.105:2304) connected
+20:39:54 Player Shteven connecting.
+20:39:56 BattlEye Server: Player #21 Shteven - BE GUID: 598e9f0aa69f802870c5108da465e724
+20:39:56 Player Shteven connected (id=76561198031788138).
+20:39:56 BattlEye Server: Verified GUID (598e9f0aa69f802870c5108da465e724) of player #21 Shteven
+20:39:58 Files D:\Program Files\Steam\steamapps\common\Arma 3\@ZIslands\addons\archipelago.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+20:39:58 Player Shteven disconnected.
+20:39:58 BattlEye Server: Player #21 Shteven disconnected
+20:44:35 Game finished.
+class Session
+{
+	mission="SOG co 36 Dragon Wagon v02";
+	island="Cam_Lao_Nam";
+	gameType="Coop";
+	duration=4017.8491;
+	class Player1
+	{
+		name="T [DK]";
+		killsInfantry=25;
+		killsSoft=1;
+		killsArmor=2;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=33;
+		killed=0;
+	};
+	class Player2
+	{
+		name="Kovamies";
+		killsInfantry=35;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=-1;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=30;
+		killed=1;
+	};
+	class Player3
+	{
+		name="Steven";
+		killsInfantry=26;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=26;
+		killed=0;
+	};
+	class Player4
+	{
+		name="mathers";
+		killsInfantry=25;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=25;
+		killed=0;
+	};
+	class Player5
+	{
+		name="Darkbelg";
+		killsInfantry=20;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=20;
+		killed=0;
+	};
+	class Player6
+	{
+		name="Beyond your Ken";
+		killsInfantry=10;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=10;
+		killed=0;
+	};
+	class Player7
+	{
+		name="Ivan J";
+		killsInfantry=8;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=8;
+		killed=0;
+	};
+	class Player8
+	{
+		name="Wombat";
+		killsInfantry=4;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=4;
+		killed=0;
+	};
+	class Player9
+	{
+		name="Tackleberry";
+		killsInfantry=3;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=3;
+		killed=0;
+	};
+	class Player10
+	{
+		name="Terox";
+		killsInfantry=3;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=3;
+		killed=0;
+	};
+	class Player11
+	{
+		name="Warhammer";
+		killsInfantry=2;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=2;
+		killed=1;
+	};
+	class Player12
+	{
+		name="DaenialTA";
+		killsInfantry=1;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=1;
+		killed=0;
+	};
+	class Player13
+	{
+		name="Hund";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player14
+	{
+		name="Redpath";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player15
+	{
+		name="Zaphod";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+20:44:39 Waiting for next game.
+20:44:56 Shteven uses modified data file
+20:44:57 BattlEye Server: Player #21 Shteven (104.7.12.105:2304) connected
+20:44:57 Player Shteven connecting.
+20:44:59 BattlEye Server: Player #21 Shteven - BE GUID: 598e9f0aa69f802870c5108da465e724
+20:45:00 Player Shteven connected (id=76561198031788138).
+20:45:09 BattlEye Server: Verified GUID (598e9f0aa69f802870c5108da465e724) of player #21 Shteven
+20:45:37 Player DaenialTA disconnected.
+20:45:37 BattlEye Server: Player #15 DaenialTA disconnected
+20:46:57 Mission SOG co@ 45 We was out walking like always v02 read from bank.
+20:47:32 Hund uses modified data file
+20:47:33 BattlEye Server: Player #22 Hund (131.164.146.33:2304) connected
+20:47:33 Player Hund connecting.
+20:47:34 BattlEye Server: Player #22 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+20:47:46 Player Hund connected (id=76561197961321906).
+20:47:46 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #22 Hund
+20:48:10 Player Hund disconnected.
+20:48:10 BattlEye Server: Player #22 Hund disconnected
+20:50:46 Heinz uses modified data file
+20:50:48 BattlEye Server: Player #22 Heinz (174.84.230.154:2322) connected
+20:50:48 Player Heinz connecting.
+20:50:58 BattlEye Server: Player #22 Heinz - BE GUID: ba08893767775d79772f8372e285c166
+20:50:59 Player Heinz connected (id=76561198033479905).
+20:50:59 BattlEye Server: Verified GUID (ba08893767775d79772f8372e285c166) of player #22 Heinz
+20:51:09 Player Heinz disconnected.
+20:51:09 BattlEye Server: Player #22 Heinz disconnected
+20:51:27 Player Ash disconnected.
+20:51:27 BattlEye Server: Player #18 Ash disconnected
+20:51:28 Roles assigned.
+20:51:28 Reading mission ...
+20:51:39 Mission read.
+20:54:20 Heinz uses modified data file
+20:54:22 BattlEye Server: Player #22 Heinz (174.84.230.154:2322) connected
+20:54:22 Player Heinz connecting.
+20:54:24 BattlEye Server: Player #22 Heinz - BE GUID: ba08893767775d79772f8372e285c166
+20:54:25 Player Heinz connected (id=76561198033479905).
+20:54:25 BattlEye Server: Verified GUID (ba08893767775d79772f8372e285c166) of player #22 Heinz
+20:54:33 Player Heinz disconnected.
+20:54:33 BattlEye Server: Player #22 Heinz disconnected
+20:55:29 Player Steven disconnected.
+20:55:29 BattlEye Server: Player #9 Steven disconnected
+20:58:29 Player mathers kicked off by BattlEye: Admin Kick
+20:58:29 Player mathers disconnected.
+20:58:29 Admin logged out, player: mathers, playerUID: 76561198059250585, IP: 192.168.178.26:2304.
+20:58:29 Game started.
+20:59:27 Hund uses modified data file
+20:59:28 BattlEye Server: Player #22 Hund (131.164.146.33:2304) connected
+20:59:28 Player Hund connecting.
+20:59:29 BattlEye Server: Player #22 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+20:59:30 Player Hund connected (id=76561197961321906).
+20:59:30 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #22 Hund
+20:59:45 Ash uses modified data file
+20:59:46 BattlEye Server: Player #23 Ash (86.14.73.195:2304) connected
+20:59:46 Player Ash connecting.
+20:59:48 BattlEye Server: Player #23 Ash - BE GUID: 44cd0a60de917c670ebe000e153339d6
+20:59:48 Player Ash connected (id=76561198022747158).
+20:59:48 BattlEye Server: Verified GUID (44cd0a60de917c670ebe000e153339d6) of player #23 Ash
+21:00:37 Player Hund disconnected.
+21:00:37 BattlEye Server: Player #22 Hund disconnected
+21:00:39 mathers uses modified data file
+21:00:40 BattlEye Server: Player #24 mathers (94.134.176.229:13455) connected
+21:00:40 Player mathers connecting.
+21:00:41 BattlEye Server: Player #24 mathers - BE GUID: c4155cce0d8803814c73f71d0c6c2d77
+21:00:42 Player mathers connected (id=76561198059250585).
+21:00:42 BattlEye Server: Verified GUID (c4155cce0d8803814c73f71d0c6c2d77) of player #24 mathers
+21:06:48 Hund uses modified data file
+21:06:49 BattlEye Server: Player #25 Hund (131.164.146.33:2304) connected
+21:06:49 Player Hund connecting.
+21:06:50 BattlEye Server: Player #25 Hund - BE GUID: a24022ac24850f39119fa10c2bcf29a5
+21:06:51 Player Hund connected (id=76561197961321906).
+21:06:51 BattlEye Server: Verified GUID (a24022ac24850f39119fa10c2bcf29a5) of player #25 Hund
+21:08:42 Player Hund disconnected.
+21:08:42 BattlEye Server: Player #25 Hund disconnected
+21:09:49 Player Ash disconnected.
+21:09:49 BattlEye Server: Player #23 Ash disconnected
+21:17:31 Ash uses modified data file
+21:17:32 BattlEye Server: Player #25 Ash (86.14.73.195:2304) connected
+21:17:33 Player Ash connecting.
+21:17:34 BattlEye Server: Player #25 Ash - BE GUID: 44cd0a60de917c670ebe000e153339d6
+21:17:34 Player Ash connected (id=76561198022747158).
+21:17:34 BattlEye Server: Verified GUID (44cd0a60de917c670ebe000e153339d6) of player #25 Ash
+21:19:13 Player Ash disconnected.
+21:19:13 BattlEye Server: Player #25 Ash disconnected
+21:20:32 Ash uses modified data file
+21:20:33 BattlEye Server: Player #25 Ash (86.14.73.195:2304) connected
+21:20:33 Player Ash connecting.
+21:20:34 BattlEye Server: Player #25 Ash - BE GUID: 44cd0a60de917c670ebe000e153339d6
+21:20:34 Player Ash connected (id=76561198022747158).
+21:20:34 BattlEye Server: Verified GUID (44cd0a60de917c670ebe000e153339d6) of player #25 Ash
+21:52:15 Player Beyond your Ken disconnected.
+21:52:15 BattlEye Server: Player #6 Beyond your Ken disconnected
+22:15:03 BattlEye Server: (Side) Darkbelg: endex
+22:15:50 Game finished.
+class Session
+{
+	mission="SOG co@ 45 We was out walking like always v02";
+	island="Cam_Lao_Nam";
+	gameType="Coop";
+	duration=4640.4814;
+	class Player1
+	{
+		name="mathers";
+		killsInfantry=55;
+		killsSoft=2;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=62;
+		killed=0;
+	};
+	class Player2
+	{
+		name="Tackleberry";
+		killsInfantry=18;
+		killsSoft=2;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=25;
+		killed=0;
+	};
+	class Player3
+	{
+		name="Shteven";
+		killsInfantry=24;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=24;
+		killed=0;
+	};
+	class Player4
+	{
+		name="Kovamies";
+		killsInfantry=19;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=19;
+		killed=0;
+	};
+	class Player5
+	{
+		name="Ash";
+		killsInfantry=11;
+		killsSoft=1;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=13;
+		killed=0;
+	};
+	class Player6
+	{
+		name="Wombat";
+		killsInfantry=10;
+		killsSoft=0;
+		killsArmor=1;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=13;
+		killed=0;
+	};
+	class Player7
+	{
+		name="Ivan J";
+		killsInfantry=12;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=12;
+		killed=0;
+	};
+	class Player8
+	{
+		name="Terox";
+		killsInfantry=12;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=12;
+		killed=0;
+	};
+	class Player9
+	{
+		name="Redpath";
+		killsInfantry=11;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=11;
+		killed=0;
+	};
+	class Player10
+	{
+		name="Darkbelg";
+		killsInfantry=6;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=6;
+		killed=0;
+	};
+	class Player11
+	{
+		name="T [DK]";
+		killsInfantry=4;
+		killsSoft=1;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=6;
+		killed=0;
+	};
+	class Player12
+	{
+		name="Beyond your Ken";
+		killsInfantry=6;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=6;
+		killed=1;
+	};
+	class Player13
+	{
+		name="Zaphod";
+		killsInfantry=3;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=3;
+		killed=0;
+	};
+	class Player14
+	{
+		name="Hund";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+22:15:56 Player Ivan J disconnected.
+22:15:56 BattlEye Server: Player #3 Ivan J disconnected
+22:15:58 Player Kovamies disconnected.
+22:15:58 BattlEye Server: Player #4 Kovamies disconnected
+22:16:00 Player Zaphod disconnected.
+22:16:00 BattlEye Server: Player #17 Zaphod disconnected
+22:16:26 BattlEye Server: (Group) Terox: afk 5 mins
+22:16:36 Player Shteven disconnected.
+22:16:36 BattlEye Server: Player #21 Shteven disconnected
+22:17:04 Player T [DK] disconnected.
+22:17:04 BattlEye Server: Player #10 T [DK] disconnected
+22:17:12 Player Wombat disconnected.
+22:17:12 BattlEye Server: Player #12 Wombat disconnected
+22:17:20 Waiting for next game.
+22:17:29 Player mathers disconnected.
+22:17:29 BattlEye Server: Player #24 mathers disconnected
+22:18:47 Player Tackleberry disconnected.
+22:18:47 BattlEye Server: Player #20 Tackleberry disconnected
+22:19:00 Player Ash disconnected.
+22:19:00 BattlEye Server: Player #25 Ash disconnected
+22:19:17 Player Redpath disconnected.
+22:19:17 BattlEye Server: Player #2 Redpath disconnected
+22:21:16 Player Terox disconnected.
+22:21:16 BattlEye Server: Player #13 Terox disconnected
+22:48:02 Player Darkbelg disconnected.
+22:48:02 BattlEye Server: Player #1 Darkbelg disconnected
+10:13:05 thega uses modified data file
+10:13:06 BattlEye Server: Player #0 thega (51.194.67.48:2304) connected
+10:13:06 Player thega connecting.
+10:13:07 BattlEye Server: Player #0 thega - BE GUID: 4f273e9c1ef1602f477bf5324194e108
+10:13:08 Player thega connected (id=76561199013842498).
+10:13:08 BattlEye Server: Verified GUID (4f273e9c1ef1602f477bf5324194e108) of player #0 thega
+10:13:27 Player thega kicked off by BattlEye: Game restart required
+10:13:27 Player thega disconnected.
